@@ -16,7 +16,6 @@
 <div>
   <a href="https://instagram.com/andrade-regis" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-   <a href="https://www.linkedin.com/in/ribandrade" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div><br>
 
 ### Se você quer escapar das coisas que o incomodam, o que você precisa fazer, não é estar em um local diferente, mas ser uma pessoa diferente
