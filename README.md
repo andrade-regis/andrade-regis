@@ -1,7 +1,6 @@
 ## Olá, me chamo Regis Andrade! Como você está?
  <div>
   <a href="https://github.com/andrade-regis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrade-regis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrade-regis&layout=compact&langs_count=7&theme=dark"/>
 </div><br>
 <div style="display: inline_block">
