@@ -1,23 +1,26 @@
-## Olá, me chamo Regis Andrade! Como você está?
- <div>
-  <a href="https://github.com/andrade-regis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrade-regis&layout=compact&langs_count=7&theme=dark"/>
-</div><br>
-<div style="display: inline_block">
-  <img align="center" alt="Regis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Regis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Regis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Regis-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div><br>
-  
-  ##
- 
-<div>
-  <a href="https://instagram.com/regin_andrade" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ribandrade/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div><br>
+# Olá, eu sou Regis Andrade! 👋
 
-### Se você quer escapar das coisas que o incomodam, o que você precisa fazer, não é estar em um local diferente, mas ser uma pessoa diferente
-- Sêneca
+Sou um desenvolvedor apaixonado por aprender formas mais simples, de fazer A MESMA COISA. Trabalho remotamente, o que me permite estar sempre focado em meus projetos e em aprender novas tecnologias.
 
+## 🚀 Projetos Principais
 
+Aqui estão alguns dos meus projetos mais destacados:
+
+- [Calculadora_Forms](https://github.com/andrade-regis/Calculadora_Forms): Uma calculadora simples feita em Windows Forms.
+- [ECONOMIZE](https://github.com/andrade-regis/ECONOMIZE): Prototipo de aplicação financeira para ajudar a gerenciar finanças pessoais.
+- [ClimaQuente](https://github.com/andrade-regis/ClimaQuente): Projeto para exibir dados do clima.
+
+## 🛠️ Habilidades
+
+- **Linguagens:** C#, HTML, CSS, Python, Java
+- **Frameworks e Ferramentas:** .NET, Windows Forms, WPF, Windows Service, Git, TFS, OxyPlot. 
+
+## 📫 Contato
+
+Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/ribandrade).
+
+---
+
+> *"Se você quer escapar das coisas que o incomodam, o que você precisa fazer, não é estar em um local diferente, mas ser uma pessoa diferente."* - Sêneca
+
+Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios e entrar em contato se tiver alguma dúvida ou proposta de colaboração.
