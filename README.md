@@ -13,7 +13,7 @@ Aqui estão alguns dos meus projetos mais destacados:
 ## 🛠️ Habilidades
 
 - **Linguagens:** C#, HTML, CSS, Python, Java
-- **Frameworks e Ferramentas:** .NET, Windows Forms, WPF, Windows Service, Git, TFS, OxyPlot. 
+- **Frameworks e Ferramentas:** .NET, Windows Forms, WPF, Windows Service, Git, Azure DevOps(Antigo TFS), OxyPlot. 
 
 ## 📫 Contato
 
